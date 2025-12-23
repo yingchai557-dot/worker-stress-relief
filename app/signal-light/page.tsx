@@ -179,10 +179,10 @@ export default function SignalLight() {
           <h1 className="text-5xl font-black text-white mb-3" style={{
             textShadow: '0 0 30px rgba(255,255,255,0.5)'
           }}>
-            "老己"的信号灯
+            老己的信号灯
           </h1>
           <p className="text-white/80 text-xl">
-            此时此刻，全球的"老己"们正在...
+            此时此刻，全球的老己们正在...
           </p>
         </motion.div>
 
