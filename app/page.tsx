@@ -883,7 +883,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* "老己"的信号灯 - 第三屏 */}
+      {/* 老己的信号灯 - 第三屏 */}
       <section 
         id="signal-light-section"
         className="min-h-screen w-full py-20 px-4 bg-white relative overflow-hidden"
@@ -901,10 +901,10 @@ export default function Home() {
             className="text-center mb-12"
           >
             <h2 className="text-4xl md:text-5xl font-black text-[#2D3436] mb-3">
-              "老己"的信号灯
+              老己的信号灯
             </h2>
             <p className="text-[#636E72] text-lg">
-              此时此刻，全球的"老己"们正在...
+              此时此刻，全球的老己们正在...
             </p>
           </motion.div>
 
